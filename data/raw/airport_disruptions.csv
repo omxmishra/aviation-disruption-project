@@ -1,0 +1,77 @@
+airport_name,iata_code,country,region,disruption_type,severity_level,flights_affected,duration_hours,date
+Kuwait International Airport,KWI,Kuwait,Middle East,Ground Stop,Critical,245,31.1,2026-02-27
+Queen Alia International Airport,AMM,Jordan,Middle East,Security Lockdown,Severe,202,12.0,2026-02-28
+Charles de Gaulle Airport,CDG,France,Europe,Security Lockdown,Moderate,269,23.7,2026-02-28
+Dubai International Airport,DXB,UAE,Middle East,Fuel Shortage,Low,182,15.5,2026-02-28
+London Heathrow Airport,LHR,UK,Europe,Flight Cancellations,Low,37,21.3,2026-02-28
+London Heathrow Airport,LHR,UK,Europe,Flight Cancellations,High,242,68.6,2026-02-28
+Beirut-Rafic Hariri International Airport,BEY,Lebanon,Middle East,Flight Cancellations,Severe,180,48.4,2026-02-28
+King Abdulaziz International Airport,JED,Saudi Arabia,Middle East,Fuel Shortage,Critical,150,24.0,2026-03-01
+Kuwait International Airport,KWI,Kuwait,Middle East,Staff Evacuation,Critical,204,62.4,2026-03-01
+Dubai International Airport,DXB,UAE,Middle East,Fuel Shortage,Severe,211,12.0,2026-03-01
+Basra International Airport,BSR,Iraq,Middle East,Fuel Shortage,Moderate,158,30.2,2026-03-01
+Baghdad International Airport,BGW,Iraq,Middle East,Flight Cancellations,High,187,60.5,2026-03-02
+Abu Dhabi International Airport,AUH,UAE,Middle East,Fuel Shortage,High,230,67.7,2026-03-02
+Cairo International Airport,CAI,Egypt,North Africa,Full Closure,Severe,80,29.8,2026-03-02
+King Abdulaziz International Airport,JED,Saudi Arabia,Middle East,Flight Cancellations,Severe,144,12.0,2026-03-02
+King Khalid International Airport,RUH,Saudi Arabia,Middle East,Partial Closure,Moderate,52,47.1,2026-03-02
+Abu Dhabi International Airport,AUH,UAE,Middle East,Security Lockdown,High,190,66.5,2026-03-02
+Dubai International Airport,DXB,UAE,Middle East,Departure Delays,High,229,53.3,2026-03-03
+Hamad International Airport,DOH,Qatar,Middle East,Ground Stop,Severe,80,48.6,2026-03-03
+Imam Khomeini International Airport,IKA,Iran,Middle East,Fuel Shortage,High,213,8.5,2026-03-03
+Changi Airport,SIN,Singapore,Asia Pacific,Arrival Diversions,Moderate,240,54.5,2026-03-04
+Ben Gurion Airport,TLV,Israel,Middle East,Security Lockdown,Severe,102,41.4,2026-03-04
+Abu Dhabi International Airport,AUH,UAE,Middle East,Full Closure,Critical,156,55.5,2026-03-04
+Beirut-Rafic Hariri International Airport,BEY,Lebanon,Middle East,Departure Delays,Severe,80,46.1,2026-03-04
+Damascus International Airport,DAM,Syria,Middle East,Full Closure,Severe,215,62.6,2026-03-04
+Islamabad International Airport,ISB,Pakistan,South Asia,Staff Evacuation,High,167,68.2,2026-03-04
+King Abdulaziz International Airport,JED,Saudi Arabia,Middle East,Security Lockdown,Severe,132,48.5,2026-03-04
+King Khalid International Airport,RUH,Saudi Arabia,Middle East,Staff Evacuation,Severe,232,17.4,2026-03-04
+Queen Alia International Airport,AMM,Jordan,Middle East,Departure Delays,Moderate,108,55.3,2026-03-04
+Imam Khomeini International Airport,IKA,Iran,Middle East,Staff Evacuation,Critical,244,35.8,2026-03-05
+Muscat International Airport,MCT,Oman,Middle East,Departure Delays,Critical,150,24.0,2026-03-05
+Jinnah International Airport,KHI,Pakistan,South Asia,Flight Cancellations,High,260,56.8,2026-03-05
+Baghdad International Airport,BGW,Iraq,Middle East,Ground Stop,Severe,84,18.5,2026-03-05
+Frankfurt Airport,FRA,Germany,Europe,Ground Stop,Low,123,60.5,2026-03-05
+King Khalid International Airport,RUH,Saudi Arabia,Middle East,Full Closure,Low,272,70.2,2026-03-05
+Ben Gurion Airport,TLV,Israel,Middle East,Partial Closure,Moderate,38,50.0,2026-03-05
+Beirut-Rafic Hariri International Airport,BEY,Lebanon,Middle East,Flight Cancellations,High,59,68.5,2026-03-06
+Cairo International Airport,CAI,Egypt,North Africa,Ground Stop,Low,50,25.8,2026-03-06
+Mehrabad International Airport,THR,Iran,Middle East,Full Closure,Severe,80,15.4,2026-03-06
+Jinnah International Airport,KHI,Pakistan,South Asia,Fuel Shortage,Severe,80,33.3,2026-03-07
+Basra International Airport,BSR,Iraq,Middle East,Arrival Diversions,Severe,114,67.3,2026-03-07
+King Khalid International Airport,RUH,Saudi Arabia,Middle East,Full Closure,Severe,89,31.7,2026-03-07
+Hamad International Airport,DOH,Qatar,Middle East,Departure Delays,Severe,81,68.0,2026-03-07
+Cairo International Airport,CAI,Egypt,North Africa,Full Closure,Moderate,222,62.1,2026-03-07
+Dubai International Airport,DXB,UAE,Middle East,Partial Closure,Critical,150,24.0,2026-03-07
+Changi Airport,SIN,Singapore,Asia Pacific,Ground Stop,High,231,21.9,2026-03-07
+King Abdulaziz International Airport,JED,Saudi Arabia,Middle East,Security Lockdown,Low,140,24.1,2026-03-08
+Muscat International Airport,MCT,Oman,Middle East,Flight Cancellations,Critical,188,33.0,2026-03-08
+Muscat International Airport,MCT,Oman,Middle East,Staff Evacuation,High,217,49.5,2026-03-08
+Mehrabad International Airport,THR,Iran,Middle East,Full Closure,Moderate,46,20.2,2026-03-08
+Islamabad International Airport,ISB,Pakistan,South Asia,Departure Delays,High,256,34.3,2026-03-08
+Chhatrapati Shivaji Maharaj International Airport,BOM,India,South Asia,Departure Delays,Moderate,92,10.1,2026-03-08
+Indira Gandhi International Airport,DEL,India,South Asia,Flight Cancellations,Low,45,39.5,2026-03-09
+Damascus International Airport,DAM,Syria,Middle East,Staff Evacuation,Critical,181,45.8,2026-03-09
+Kuwait International Airport,KWI,Kuwait,Middle East,Ground Stop,Severe,284,55.5,2026-03-09
+Abu Dhabi International Airport,AUH,UAE,Middle East,Arrival Diversions,Severe,209,47.6,2026-03-09
+Baghdad International Airport,BGW,Iraq,Middle East,Partial Closure,High,286,60.8,2026-03-09
+Baghdad International Airport,BGW,Iraq,Middle East,Security Lockdown,Severe,140,30.0,2026-03-09
+Istanbul Airport,IST,Turkey,Middle East,Partial Closure,Critical,281,24.0,2026-03-09
+Bahrain International Airport,BAH,Bahrain,Middle East,Arrival Diversions,High,235,36.3,2026-03-09
+Abu Dhabi International Airport,AUH,UAE,Middle East,Security Lockdown,Severe,230,31.7,2026-03-09
+Muscat International Airport,MCT,Oman,Middle East,Fuel Shortage,Critical,150,24.0,2026-03-09
+Muscat International Airport,MCT,Oman,Middle East,Fuel Shortage,High,124,56.5,2026-03-09
+Bahrain International Airport,BAH,Bahrain,Middle East,Fuel Shortage,Critical,244,24.0,2026-03-10
+Dubai International Airport,DXB,UAE,Middle East,Flight Cancellations,Critical,247,31.1,2026-03-10
+Bahrain International Airport,BAH,Bahrain,Middle East,Arrival Diversions,Critical,150,24.0,2026-03-10
+Istanbul Airport,IST,Turkey,Middle East,Full Closure,Severe,167,28.4,2026-03-10
+Abu Dhabi International Airport,AUH,UAE,Middle East,Arrival Diversions,Severe,106,50.8,2026-03-10
+Ben Gurion Airport,TLV,Israel,Middle East,Staff Evacuation,Severe,280,26.7,2026-03-10
+Baghdad International Airport,BGW,Iraq,Middle East,Arrival Diversions,Moderate,145,45.1,2026-03-10
+Chhatrapati Shivaji Maharaj International Airport,BOM,India,South Asia,Fuel Shortage,Severe,80,45.3,2026-03-11
+Istanbul Airport,IST,Turkey,Middle East,Departure Delays,Moderate,126,17.5,2026-03-11
+Islamabad International Airport,ISB,Pakistan,South Asia,Departure Delays,Moderate,29,22.7,2026-03-11
+Bahrain International Airport,BAH,Bahrain,Middle East,Security Lockdown,Severe,236,35.7,2026-03-11
+Chhatrapati Shivaji Maharaj International Airport,BOM,India,South Asia,Arrival Diversions,Severe,115,69.2,2026-03-11
+Basra International Airport,BSR,Iraq,Middle East,Arrival Diversions,Critical,193,69.7,2026-03-11

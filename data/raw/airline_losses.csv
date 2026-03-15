@@ -1,0 +1,34 @@
+airline,country,airline_type,estimated_loss_usd,cancellations_count,reroutes_count,revenue_loss_pct,region
+Qatar Airways,Qatar,Flag Carrier,889080000.0,185,29,41.5,Middle East
+Etihad Airways,UAE,Flag Carrier,863980000.0,82,73,37.9,Middle East
+Kuwait Airways,Kuwait,Flag Carrier,824320000.0,81,30,33.5,Middle East
+Air Arabia,UAE,Low Cost,718340000.0,92,86,37.4,Middle East
+Jazeera Airways,Kuwait,Low Cost,612030000.0,74,77,25.2,Middle East
+flydubai,UAE,Low Cost,606930000.0,113,72,18.9,Middle East
+Emirates SkyCargo,UAE,Cargo,597510000.0,165,79,30.0,Middle East
+Oman Air,Oman,Flag Carrier,516450000.0,118,24,39.0,Middle East
+Mahan Air,Iran,Private,475860000.0,166,65,36.0,Middle East
+Iran Air,Iran,Flag Carrier,428650000.0,185,58,34.6,Middle East
+Emirates,UAE,Flag Carrier,355540000.0,160,99,35.8,Middle East
+Gulf Air,Bahrain,Flag Carrier,259670000.0,196,25,33.3,Middle East
+Saudi Arabian Airlines,Saudi Arabia,Flag Carrier,119480000.0,64,30,40.5,Middle East
+Turkish Airlines,Turkey,Flag Carrier,119160000.0,69,20,9.0,Middle East
+EgyptAir,Egypt,Flag Carrier,106710000.0,68,13,7.1,Africa
+Pakistan International Airlines,Pakistan,Flag Carrier,68820000.0,70,25,13.8,South Asia
+IndiGo,India,Low Cost,66830000.0,48,11,10.0,South Asia
+DHL Aviation,Germany,Cargo,66320000.0,23,49,7.4,Europe
+FedEx Express,USA,Cargo,65720000.0,22,59,5.2,North America
+British Airways,UK,Flag Carrier,58980000.0,22,15,7.2,Europe
+Lufthansa,Germany,Flag Carrier,42370000.0,29,25,3.8,Europe
+Cargolux,Luxembourg,Cargo,40620000.0,9,60,6.6,Europe
+Air India,India,Flag Carrier,38760000.0,16,40,12.2,South Asia
+KLM,Netherlands,Flag Carrier,37640000.0,13,14,3.5,Europe
+Thai Airways,Thailand,Flag Carrier,34130000.0,25,28,7.0,Asia Pacific
+Ethiopian Airlines,Ethiopia,Flag Carrier,33100000.0,12,16,2.7,Africa
+Singapore Airlines,Singapore,Flag Carrier,27100000.0,26,5,9.2,Asia Pacific
+Malaysia Airlines,Malaysia,Flag Carrier,17410000.0,16,22,5.0,Asia Pacific
+American Airlines,USA,Flag Carrier,17260000.0,32,25,8.8,North America
+Cathay Pacific,Hong Kong,Flag Carrier,12780000.0,18,30,8.4,Asia Pacific
+Air France,France,Flag Carrier,11220000.0,11,8,2.5,Europe
+United Airlines,USA,Flag Carrier,10960000.0,20,9,8.5,North America
+Delta Air Lines,USA,Flag Carrier,10140000.0,11,13,2.3,North America
